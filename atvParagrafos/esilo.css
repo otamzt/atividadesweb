@@ -1,0 +1,21 @@
+p.p1{
+    background-color: chocolate;
+    color: blue;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+p.p2{
+    background-color: aqua;
+    color: brown;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+p.p3{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+}
